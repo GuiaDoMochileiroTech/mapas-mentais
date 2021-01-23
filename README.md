@@ -4,24 +4,28 @@ Você encontrará neste repositório vários mapas mentais que explicam as difer
 
 ## Desenvolvimento
 
-* [Carreiras](https://github.com/GuillaumeFalourd/mapas-mentais/blob/main/desenvolvimento/desenvolvimento.png)
-  * [Back-End](https://github.com/GuillaumeFalourd/mapas-mentais/blob/main/desenvolvimento/backend/backend.png)
+* [Carreiras](https://github.com/GuiaDoMochileiroTech/mapas-mentais/blob/main/desenvolvimento/desenvolvimento.png)
+  * [Back-End](https://github.com/GuiaDoMochileiroTech/mapas-mentais/blob/main/desenvolvimento/backend/backend.png)
 
 ## Infraestrutura
 
-* [DevOps](https://github.com/GuillaumeFalourd/mapas-mentais/blob/main/infraestrutura/devops.png)
+* [DevOps](https://github.com/GuiaDoMochileiroTech/mapas-mentais/blob/main/infraestrutura/devops.png)
 
 ## Produto
 
-* [Carreiras](https://github.com/GuillaumeFalourd/mapas-mentais/blob/main/produto/produto.png)
-  * [Analista de Requisitos](https://github.com/GuillaumeFalourd/mapas-mentais/blob/main/produto/analista-de-requisitos/analista-de-requisitos.png)
-  * [Product Manager](https://github.com/GuillaumeFalourd/mapas-mentais/blob/main/produto/product-manager/product-manager.png)
-  * [Product Owner](https://github.com/GuillaumeFalourd/mapas-mentais/blob/main/produto/product-owner/product-owner.png)
+* [Carreiras](https://github.com/GuiaDoMochileiroTech/mapas-mentais/blob/main/produto/produto.png)
+  * [Analista de Requisitos](https://github.com/GuiaDoMochileiroTech/mapas-mentais/blob/main/produto/analista-de-requisitos/analista-de-requisitos.png)
+  * [Product Manager](https://github.com/GuiaDoMochileiroTech/mapas-mentais/blob/main/produto/product-manager/product-manager.png)
+  * [Product Owner](https://github.com/GuiaDoMochileiroTech/mapas-mentais/blob/main/produto/product-owner/product-owner.png)
 
 ## Qualidade
 
-* [Conceitos Gerais](https://github.com/GuillaumeFalourd/mapas-mentais/blob/main/qualidade/qualidade.png)
+* [Conceitos Gerais](https://github.com/GuiaDoMochileiroTech/mapas-mentais/blob/main/qualidade/qualidade.png)
 
 ## Usuário
 
-* [UX/UI](https://github.com/GuillaumeFalourd/mapas-mentais/blob/main/usuario/UX-UI.png)
+* [UX/UI](https://github.com/GuiaDoMochileiroTech/mapas-mentais/blob/main/usuario/UX-UI.png)
+
+# Como Contribuir ?
+
+* [Guia](https://github.com/GuiaDoMochileiroTech/mapas-mentais/CONTRIBUTION)
