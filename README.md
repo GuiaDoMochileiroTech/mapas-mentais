@@ -28,4 +28,4 @@ Você encontrará neste repositório vários mapas mentais que explicam as difer
 
 # Como Contribuir ?
 
-* [Guia](https://github.com/GuiaDoMochileiroTech/mapas-mentais/CONTRIBUTION)
+* [Guia de contribuição](https://github.com/GuiaDoMochileiroTech/mapas-mentais/blob/main/CONTRIBUTION.md)
